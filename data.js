@@ -1,4 +1,5 @@
 const emojiItems = [
+	
     {
         title: "The 25th Annual Putnum County Spelling Bee",
         emojiImgs: "🔤🐝😂",
@@ -309,6 +310,14 @@ const emojiItems = [
         type: "movie",
         year: 2000
     },
+	{
+		title: "The Godfather",
+		emojiImgs: "💪🤕👊🏻",
+		genres: ["action", "crime"],
+		type: "movie",
+		year: 1972,
+		itemLink: "https://www.imdb.com/title/tt0068646/"
+	},
     {
         title: "Goonies",
         emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
